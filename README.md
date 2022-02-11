@@ -1,2 +1,2 @@
-# aula-bootstrap
-Utilizando Bootstrap
+# Bootstrap Class
+Exercise made to learn how to use Bootstrap.
